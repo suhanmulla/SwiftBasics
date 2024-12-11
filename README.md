@@ -1,2 +1,2 @@
 # SwiftBasics
-About swift basic -- variable &amp; constants
+Cover all the topics about the swifts 
